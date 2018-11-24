@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://adityavyas.com/index.html</loc>
+    <lastmod>2018-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://adityavyas.com/images/menu_icon_04_white_3line-crop-u1457.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://adityavyas.com/images/pointer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://adityavyas.com/images/corner.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://adityavyas.com/assets/0.jpg</loc>
+    <lastmod>2018-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://adityavyas.com/assets/83-laziness.jpg</loc>
+    <lastmod>2018-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
